@@ -18,10 +18,10 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* yomitan cofog */
-'20110100':{ icon: 'icons/vote.svg', color: '#32CD32',bgcolor:'#32CD32'},
+'20110100':{ icon: 'icons/unemployment.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110200':{ icon: 'icons/government.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110300':{ icon: 'icons/health.svg', color: '#32CD32',bgcolor:'#32CD32'},
-'20110300':{ icon: 'icons/medical-supplies.svg', color: '#32CD32',bgcolor:'#32CD32'},
+'20110300':{ icon: 'icons/helping-others.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110400':{ icon: 'icons/human-resources.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110500':{ icon: 'icons/farms.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110600':{ icon: 'icons/c_syoukougyou.svg', color: '#32CD32',bgcolor:'#32CD32'},
@@ -36,8 +36,8 @@ OpenSpending.Styles.Cofog = {
 '20110302':{ icon: 'icons/medical-supplies.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110401':{ icon: 'icons/human-resources.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110501':{ icon: 'icons/farms.svg', color: '#32CD32',bgcolor:'#32CD32'},
-'20110601':{ icon: 'icons/c_syoukougyou.svg', color: '#32CD32',bgcolor:'#32CD32'},
-'20110701':{ icon: 'icons/construction.svg', color: '#32CD32',bgcolor:'#32CD32'},
+'20110601':{ icon: 'icons/economy-tourism.svg', color: '#32CD32',bgcolor:'#32CD32'},
+'20110701':{ icon: 'icons/coal.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110801':{ icon: 'icons/fire-brigade.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110901':{ icon: 'icons/schools.svg', color: '#32CD32',bgcolor:'#32CD32'},
 '20110101':{ icon: 'icons/c_syoubou_bousai.svg', color: '#32CD32',bgcolor:'#32CD32'},
